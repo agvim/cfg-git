@@ -1,0 +1,25 @@
+[include]
+    path = ~/.local.gitconfig
+
+# use delta for diffs
+[pager]
+    diff = delta
+    log = delta
+    reflog = delta
+    show = delta
+
+[interactive]
+    diffFilter = delta --color-only --features=interactive
+
+[delta]
+    syntax-theme = Solarized (dark)
+    line-numbers = true
+    line-numbers-minus-style = red bold
+    line-numbers-plus-style = green bold
+    line-numbers-zero-style = white
+    # minus-style = syntax dim  black
+    # minus-style = white strike black
+    # plus-style = white ul black
+
+[delta "interactive"]
+    keep-plus-minus-markers = false
