@@ -1,1 +1,2 @@
-export GIT_CONFIG_GLOBAL='$HOME/.config/git/git-$THEME.gitconfig'
+# does not work
+export GIT_CONFIG_GLOBAL="$HOME/.config/git/git-$THEME.gitconfig"

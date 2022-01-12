@@ -1,2 +1,4 @@
 [delta]
     syntax-theme = Solarized (light)
+    minus-style = normal "#ffdac0" # solarized red color with 95 lightness
+    plus-style = syntax "#e8fa72" # solarized green color with 95 lightness

@@ -1,4 +1,4 @@
 
 [include]
     path = ~/.config/git/settings.gitconfig
-    path = ~/.config/git/solarized-light.conf
+    path = ~/.config/git/solarized-light.gitconfig

@@ -16,9 +16,6 @@
     line-numbers-minus-style = red bold
     line-numbers-plus-style = green bold
     line-numbers-zero-style = white
-    # minus-style = syntax dim  black
-    # minus-style = white strike black
-    # plus-style = white ul black
 
 [delta "interactive"]
     keep-plus-minus-markers = false
