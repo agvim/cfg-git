@@ -19,3 +19,6 @@
 
 [delta "interactive"]
     keep-plus-minus-markers = false
+
+[alias]
+adog = log --all --decorate --oneline --graph
